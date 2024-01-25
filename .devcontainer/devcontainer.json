@@ -9,8 +9,8 @@
                 "ms-python.black-formatter"
             ],
             "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python3.12",
                 "[python]": {
-                    "defaultInterpreterPath": "/usr/local/bin/python3.12",
                     "editor.defaultFormatter": "ms-python.black-formatter"
                 }
             }
